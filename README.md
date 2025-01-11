@@ -9,7 +9,7 @@ The cell-drug-feat folder contains scripts used for extracting features from dru
 Data
 Within the GATRSyn\cell-drug-feat\data directory, you will need a file named node_features.npy. You can download this file using the following link:
 
-node_features.npy
+node_features.npy( https://pan.baidu.com/s/1hSKTnLIX1JxOk0_C2iy0SA?pwd=3asq)
 
 Note: When downloading from Baidu Netdisk, you may need to enter the extraction code: 3asq.
 
