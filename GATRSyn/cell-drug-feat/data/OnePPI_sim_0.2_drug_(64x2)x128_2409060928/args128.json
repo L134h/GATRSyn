@@ -1,0 +1,21 @@
+{
+  "target": "standard_drug_pro_matrix.npy",
+  "valid_nodes": "nodes_drug_pro.npy",
+  "drug_sim": "drug_target_sim.npy",
+  "conv": 2,
+  "hidden_dim": 64,
+  "loss": "mse",
+  "emb_dim": 128,
+  "active": "relu",
+  "lr": 0.001,
+  "epoch": 1000,
+  "batch": 2,
+  "keep": 1,
+  "patience": 50,
+  "loss_type": "PRELU",
+  "simple_distance": "N",
+  "with_edge": "Y",
+  "norm_type": "layer",
+  "gpu": 0,
+  "suffix": "2409060928"
+}
