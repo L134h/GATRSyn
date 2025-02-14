@@ -27,6 +27,9 @@ The prediction folder houses scripts that are responsible for the feature fusion
 Getting Started
 
 To start working with the GATRSyn project, ensure you have all dependencies installed and follow these steps:
+
 Download the node_features.npy file from the provided link.
+
 Navigate to the cell-drug-feat directory and run train.py to extract features if necessary.
+
 Move to the prediction directory and use cross_validation.py to perform feature fusion and prediction tasks.
