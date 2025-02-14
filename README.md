@@ -1,10 +1,11 @@
 # GATRSyn
 GATRSyn Project README
 Overview
-The GATRSyn project consists of two main components: feature extraction for drugs and cell lines using Graph Attention Networks (GAT), and prediction through Transformer feature fusion. This document provides a brief introduction to each component and how to get started with the project.
+GATRSyn is a generalized two-stage research framework that decomposes the task of drug synergy prediction into two key modules: offline feature extraction and multi-scenario adaptive prediction. By integrating drug-cell-associated protein-protein interaction (PPI) networks with pharmacogenomics data, GATRSyn employs a Graph Attention Network (GAT) enriched with edge information to construct offline feature extractors for generating cell line/drug GAT features. The transformer-based re-embeddings of GAT features, referred to as Trans features, are designed to enhance cross-modal interactions between specific drugs and cell lines, making them more adaptable to diverse downstream tasks. Finally, sample Trans features are input into deep neural networks to predict six distinct scenarios.
+This document provides a brief introduction to each component and how to get started with the project.
 
 Feature Extraction - cell-drug-feat
-The cell-drug-feat folder contains scripts used for extracting features from drug and cell line data using Graph Attention Networks (GAT). The primary script for this process is train.py.
+The cell-drug-feat folder contains scripts used for extracting features from drug and cell line data using Graph Attention Network(GAT). The primary script for this process is train.py.
 
 Data
 Within the GATRSyn\cell-drug-feat\data directory, you will need a file named node_features.npy. You can download this file using the following link:
