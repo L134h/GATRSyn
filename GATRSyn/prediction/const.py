@@ -1,7 +1,7 @@
 import os
 
 PROJ_DIR = os.path.dirname(os.path.abspath(os.path.dirname(__file__)))
-SUB_PROJ_DIR = os.path.join(PROJ_DIR, 'pre')
+SUB_PROJ_DIR = os.path.join(PROJ_DIR, 'prediction')
 DATA_DIR = os.path.join(SUB_PROJ_DIR, 'data')
 feat_DATA_DIR = os.path.join(PROJ_DIR, 'cell-drug-feat', 'data')
 OUTPUT_DIR = 'output'
