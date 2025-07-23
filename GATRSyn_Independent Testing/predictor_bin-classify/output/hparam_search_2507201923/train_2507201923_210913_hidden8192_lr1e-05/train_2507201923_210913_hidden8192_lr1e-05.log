@@ -1,0 +1,287 @@
+[2025-07-20 21:09:13] Hyperparameter search run 16/16
+[2025-07-20 21:09:13]   Hidden size: 8192
+[2025-07-20 21:09:13]   Learning rate: 1e-05
+[2025-07-20 21:09:13]   Output directory: output\hparam_search_2507201923\train_2507201923_210913_hidden8192_lr1e-05
+[2025-07-20 21:09:18] Epoch 1/500: Train Loss = 0.5425 | Val Loss = 0.7598 (AUC: 0.6178) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:09:20] New best model at epoch 1 with Val AUC: 0.6178
+[2025-07-20 21:09:24] Epoch 2/500: Train Loss = 0.4121 | Val Loss = 0.7457 (AUC: 0.6452) | Times - Train: 4.3s, Val: 0.1s
+[2025-07-20 21:09:26] New best model at epoch 2 with Val AUC: 0.6452
+[2025-07-20 21:09:30] Epoch 3/500: Train Loss = 0.3691 | Val Loss = 0.8241 (AUC: 0.5850) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:09:30] No improvement for 1/100 epochs
+[2025-07-20 21:09:34] Epoch 4/500: Train Loss = 0.3475 | Val Loss = 0.8482 (AUC: 0.5775) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:09:34] No improvement for 2/100 epochs
+[2025-07-20 21:09:38] Epoch 5/500: Train Loss = 0.3257 | Val Loss = 0.8305 (AUC: 0.6273) | Times - Train: 3.9s, Val: 0.0s
+[2025-07-20 21:09:38] No improvement for 3/100 epochs
+[2025-07-20 21:09:42] Epoch 6/500: Train Loss = 0.3020 | Val Loss = 0.8246 (AUC: 0.6159) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:09:42] No improvement for 4/100 epochs
+[2025-07-20 21:09:46] Epoch 7/500: Train Loss = 0.2804 | Val Loss = 0.9402 (AUC: 0.6261) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:09:46] No improvement for 5/100 epochs
+[2025-07-20 21:09:51] Epoch 8/500: Train Loss = 0.2544 | Val Loss = 0.8658 (AUC: 0.5821) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:09:51] No improvement for 6/100 epochs
+[2025-07-20 21:09:55] Epoch 9/500: Train Loss = 0.2327 | Val Loss = 0.8795 (AUC: 0.6442) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:09:55] No improvement for 7/100 epochs
+[2025-07-20 21:09:59] Epoch 10/500: Train Loss = 0.2109 | Val Loss = 0.8574 (AUC: 0.5986) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:09:59] No improvement for 8/100 epochs
+[2025-07-20 21:10:03] Epoch 11/500: Train Loss = 0.1837 | Val Loss = 0.9196 (AUC: 0.5987) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:10:03] No improvement for 9/100 epochs
+[2025-07-20 21:10:07] Epoch 12/500: Train Loss = 0.1653 | Val Loss = 0.8968 (AUC: 0.6394) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:10:07] No improvement for 10/100 epochs
+[2025-07-20 21:10:11] Epoch 13/500: Train Loss = 0.1492 | Val Loss = 0.9342 (AUC: 0.6314) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:10:11] No improvement for 11/100 epochs
+[2025-07-20 21:10:15] Epoch 14/500: Train Loss = 0.1332 | Val Loss = 0.9078 (AUC: 0.6082) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:10:15] No improvement for 12/100 epochs
+[2025-07-20 21:10:19] Epoch 15/500: Train Loss = 0.1174 | Val Loss = 1.0235 (AUC: 0.6009) | Times - Train: 4.2s, Val: 0.0s
+[2025-07-20 21:10:19] No improvement for 13/100 epochs
+[2025-07-20 21:10:23] Epoch 16/500: Train Loss = 0.1059 | Val Loss = 0.9134 (AUC: 0.6387) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:10:23] No improvement for 14/100 epochs
+[2025-07-20 21:10:27] Epoch 17/500: Train Loss = 0.0968 | Val Loss = 0.9418 (AUC: 0.6426) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:10:27] No improvement for 15/100 epochs
+[2025-07-20 21:10:31] Epoch 18/500: Train Loss = 0.0836 | Val Loss = 0.9955 (AUC: 0.6302) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:10:31] No improvement for 16/100 epochs
+[2025-07-20 21:10:35] Epoch 19/500: Train Loss = 0.0748 | Val Loss = 0.9274 (AUC: 0.6194) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:10:35] No improvement for 17/100 epochs
+[2025-07-20 21:10:39] Epoch 20/500: Train Loss = 0.0691 | Val Loss = 1.0269 (AUC: 0.6073) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:10:39] No improvement for 18/100 epochs
+[2025-07-20 21:10:44] Epoch 21/500: Train Loss = 0.0643 | Val Loss = 1.0417 (AUC: 0.6393) | Times - Train: 4.5s, Val: 0.1s
+[2025-07-20 21:10:44] No improvement for 19/100 epochs
+[2025-07-20 21:10:49] Epoch 22/500: Train Loss = 0.0545 | Val Loss = 1.1604 (AUC: 0.6344) | Times - Train: 4.7s, Val: 0.1s
+[2025-07-20 21:10:49] No improvement for 20/100 epochs
+[2025-07-20 21:10:54] Epoch 23/500: Train Loss = 0.0474 | Val Loss = 1.1430 (AUC: 0.6319) | Times - Train: 4.6s, Val: 0.2s
+[2025-07-20 21:10:54] No improvement for 21/100 epochs
+[2025-07-20 21:10:58] Epoch 24/500: Train Loss = 0.0456 | Val Loss = 1.2420 (AUC: 0.6402) | Times - Train: 4.7s, Val: 0.0s
+[2025-07-20 21:10:58] No improvement for 22/100 epochs
+[2025-07-20 21:11:03] Epoch 25/500: Train Loss = 0.0426 | Val Loss = 1.1943 (AUC: 0.6179) | Times - Train: 4.5s, Val: 0.0s
+[2025-07-20 21:11:03] No improvement for 23/100 epochs
+[2025-07-20 21:11:07] Epoch 26/500: Train Loss = 0.0410 | Val Loss = 1.2167 (AUC: 0.6224) | Times - Train: 4.3s, Val: 0.1s
+[2025-07-20 21:11:07] No improvement for 24/100 epochs
+[2025-07-20 21:11:12] Epoch 27/500: Train Loss = 0.0336 | Val Loss = 1.0630 (AUC: 0.6270) | Times - Train: 4.5s, Val: 0.1s
+[2025-07-20 21:11:12] No improvement for 25/100 epochs
+[2025-07-20 21:11:16] Epoch 28/500: Train Loss = 0.0326 | Val Loss = 1.2238 (AUC: 0.6628) | Times - Train: 4.5s, Val: 0.1s
+[2025-07-20 21:11:18] New best model at epoch 28 with Val AUC: 0.6628
+[2025-07-20 21:11:23] Epoch 29/500: Train Loss = 0.0295 | Val Loss = 1.3273 (AUC: 0.6182) | Times - Train: 4.6s, Val: 0.0s
+[2025-07-20 21:11:23] No improvement for 1/100 epochs
+[2025-07-20 21:11:27] Epoch 30/500: Train Loss = 0.0307 | Val Loss = 1.3320 (AUC: 0.6351) | Times - Train: 4.6s, Val: 0.1s
+[2025-07-20 21:11:27] No improvement for 2/100 epochs
+[2025-07-20 21:11:32] Epoch 31/500: Train Loss = 0.0286 | Val Loss = 1.3116 (AUC: 0.6290) | Times - Train: 4.6s, Val: 0.0s
+[2025-07-20 21:11:32] No improvement for 3/100 epochs
+[2025-07-20 21:11:36] Epoch 32/500: Train Loss = 0.0276 | Val Loss = 1.3753 (AUC: 0.6485) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:11:36] No improvement for 4/100 epochs
+[2025-07-20 21:11:40] Epoch 33/500: Train Loss = 0.0312 | Val Loss = 1.3319 (AUC: 0.6491) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:11:40] No improvement for 5/100 epochs
+[2025-07-20 21:11:44] Epoch 34/500: Train Loss = 0.0283 | Val Loss = 1.3878 (AUC: 0.6225) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:11:44] No improvement for 6/100 epochs
+[2025-07-20 21:11:48] Epoch 35/500: Train Loss = 0.0268 | Val Loss = 1.2317 (AUC: 0.6455) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:11:48] No improvement for 7/100 epochs
+[2025-07-20 21:11:52] Epoch 36/500: Train Loss = 0.0248 | Val Loss = 1.2889 (AUC: 0.6069) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:11:52] No improvement for 8/100 epochs
+[2025-07-20 21:11:56] Epoch 37/500: Train Loss = 0.0237 | Val Loss = 1.2789 (AUC: 0.6258) | Times - Train: 3.9s, Val: 0.0s
+[2025-07-20 21:11:56] No improvement for 9/100 epochs
+[2025-07-20 21:12:00] Epoch 38/500: Train Loss = 0.0265 | Val Loss = 1.2301 (AUC: 0.6262) | Times - Train: 3.9s, Val: 0.0s
+[2025-07-20 21:12:00] No improvement for 10/100 epochs
+[2025-07-20 21:12:04] Epoch 39/500: Train Loss = 0.0236 | Val Loss = 1.3170 (AUC: 0.6032) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:04] No improvement for 11/100 epochs
+[2025-07-20 21:12:08] Epoch 40/500: Train Loss = 0.0238 | Val Loss = 1.3981 (AUC: 0.6152) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:12:08] No improvement for 12/100 epochs
+[2025-07-20 21:12:12] Epoch 41/500: Train Loss = 0.0264 | Val Loss = 1.2945 (AUC: 0.6454) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:12] No improvement for 13/100 epochs
+[2025-07-20 21:12:16] Epoch 42/500: Train Loss = 0.0272 | Val Loss = 1.4001 (AUC: 0.6170) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:12:16] No improvement for 14/100 epochs
+[2025-07-20 21:12:21] Epoch 43/500: Train Loss = 0.0264 | Val Loss = 1.2996 (AUC: 0.6250) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:21] No improvement for 15/100 epochs
+[2025-07-20 21:12:25] Epoch 44/500: Train Loss = 0.0247 | Val Loss = 1.5033 (AUC: 0.6099) | Times - Train: 4.2s, Val: 0.0s
+[2025-07-20 21:12:25] No improvement for 16/100 epochs
+[2025-07-20 21:12:29] Epoch 45/500: Train Loss = 0.0257 | Val Loss = 1.2910 (AUC: 0.6168) | Times - Train: 4.4s, Val: 0.0s
+[2025-07-20 21:12:29] No improvement for 17/100 epochs
+[2025-07-20 21:12:34] Epoch 46/500: Train Loss = 0.0236 | Val Loss = 1.3174 (AUC: 0.5946) | Times - Train: 4.2s, Val: 0.0s
+[2025-07-20 21:12:34] No improvement for 18/100 epochs
+[2025-07-20 21:12:38] Epoch 47/500: Train Loss = 0.0244 | Val Loss = 1.5196 (AUC: 0.5826) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:38] No improvement for 19/100 epochs
+[2025-07-20 21:12:42] Epoch 48/500: Train Loss = 0.0227 | Val Loss = 1.4770 (AUC: 0.6107) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:42] No improvement for 20/100 epochs
+[2025-07-20 21:12:46] Epoch 49/500: Train Loss = 0.0209 | Val Loss = 1.3901 (AUC: 0.6141) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:46] No improvement for 21/100 epochs
+[2025-07-20 21:12:50] Epoch 50/500: Train Loss = 0.0215 | Val Loss = 1.5230 (AUC: 0.6011) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:50] No improvement for 22/100 epochs
+[2025-07-20 21:12:54] Epoch 51/500: Train Loss = 0.0235 | Val Loss = 1.3188 (AUC: 0.6140) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:54] No improvement for 23/100 epochs
+[2025-07-20 21:12:58] Epoch 52/500: Train Loss = 0.0201 | Val Loss = 1.5290 (AUC: 0.5570) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:12:58] No improvement for 24/100 epochs
+[2025-07-20 21:13:02] Epoch 53/500: Train Loss = 0.0227 | Val Loss = 1.4138 (AUC: 0.6106) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:13:02] No improvement for 25/100 epochs
+[2025-07-20 21:13:06] Epoch 54/500: Train Loss = 0.0242 | Val Loss = 1.5538 (AUC: 0.5923) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:13:06] No improvement for 26/100 epochs
+[2025-07-20 21:13:10] Epoch 55/500: Train Loss = 0.0204 | Val Loss = 1.2830 (AUC: 0.5980) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:13:10] No improvement for 27/100 epochs
+[2025-07-20 21:13:14] Epoch 56/500: Train Loss = 0.0196 | Val Loss = 1.5147 (AUC: 0.5934) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:13:14] No improvement for 28/100 epochs
+[2025-07-20 21:13:18] Epoch 57/500: Train Loss = 0.0204 | Val Loss = 1.2732 (AUC: 0.5778) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:13:18] No improvement for 29/100 epochs
+[2025-07-20 21:13:23] Epoch 58/500: Train Loss = 0.0196 | Val Loss = 1.3157 (AUC: 0.6052) | Times - Train: 4.5s, Val: 0.1s
+[2025-07-20 21:13:23] No improvement for 30/100 epochs
+[2025-07-20 21:13:27] Epoch 59/500: Train Loss = 0.0167 | Val Loss = 1.4677 (AUC: 0.5896) | Times - Train: 4.5s, Val: 0.0s
+[2025-07-20 21:13:27] No improvement for 31/100 epochs
+[2025-07-20 21:13:32] Epoch 60/500: Train Loss = 0.0197 | Val Loss = 1.3320 (AUC: 0.6026) | Times - Train: 4.8s, Val: 0.1s
+[2025-07-20 21:13:32] No improvement for 32/100 epochs
+[2025-07-20 21:13:37] Epoch 61/500: Train Loss = 0.0211 | Val Loss = 1.2032 (AUC: 0.6072) | Times - Train: 4.7s, Val: 0.1s
+[2025-07-20 21:13:37] No improvement for 33/100 epochs
+[2025-07-20 21:13:41] Epoch 62/500: Train Loss = 0.0169 | Val Loss = 1.2780 (AUC: 0.6182) | Times - Train: 4.7s, Val: 0.1s
+[2025-07-20 21:13:41] No improvement for 34/100 epochs
+[2025-07-20 21:13:46] Epoch 63/500: Train Loss = 0.0178 | Val Loss = 1.3986 (AUC: 0.6024) | Times - Train: 4.4s, Val: 0.0s
+[2025-07-20 21:13:46] No improvement for 35/100 epochs
+[2025-07-20 21:13:50] Epoch 64/500: Train Loss = 0.0179 | Val Loss = 1.2967 (AUC: 0.6077) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:13:50] No improvement for 36/100 epochs
+[2025-07-20 21:13:54] Epoch 65/500: Train Loss = 0.0188 | Val Loss = 1.2616 (AUC: 0.6111) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:13:54] No improvement for 37/100 epochs
+[2025-07-20 21:13:59] Epoch 66/500: Train Loss = 0.0196 | Val Loss = 1.3366 (AUC: 0.5790) | Times - Train: 4.6s, Val: 0.1s
+[2025-07-20 21:13:59] No improvement for 38/100 epochs
+[2025-07-20 21:14:03] Epoch 67/500: Train Loss = 0.0205 | Val Loss = 1.1786 (AUC: 0.6184) | Times - Train: 4.5s, Val: 0.1s
+[2025-07-20 21:14:03] No improvement for 39/100 epochs
+[2025-07-20 21:14:08] Epoch 68/500: Train Loss = 0.0166 | Val Loss = 1.2528 (AUC: 0.5789) | Times - Train: 4.5s, Val: 0.1s
+[2025-07-20 21:14:08] No improvement for 40/100 epochs
+[2025-07-20 21:14:13] Epoch 69/500: Train Loss = 0.0154 | Val Loss = 1.4103 (AUC: 0.6167) | Times - Train: 4.8s, Val: 0.1s
+[2025-07-20 21:14:13] No improvement for 41/100 epochs
+[2025-07-20 21:14:17] Epoch 70/500: Train Loss = 0.0154 | Val Loss = 1.4140 (AUC: 0.6021) | Times - Train: 4.3s, Val: 0.0s
+[2025-07-20 21:14:17] No improvement for 42/100 epochs
+[2025-07-20 21:14:21] Epoch 71/500: Train Loss = 0.0154 | Val Loss = 1.3870 (AUC: 0.6032) | Times - Train: 3.9s, Val: 0.0s
+[2025-07-20 21:14:21] No improvement for 43/100 epochs
+[2025-07-20 21:14:25] Epoch 72/500: Train Loss = 0.0136 | Val Loss = 1.2064 (AUC: 0.5989) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:14:25] No improvement for 44/100 epochs
+[2025-07-20 21:14:29] Epoch 73/500: Train Loss = 0.0164 | Val Loss = 1.1606 (AUC: 0.6230) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:14:29] No improvement for 45/100 epochs
+[2025-07-20 21:14:33] Epoch 74/500: Train Loss = 0.0159 | Val Loss = 1.4794 (AUC: 0.6010) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:14:33] No improvement for 46/100 epochs
+[2025-07-20 21:14:37] Epoch 75/500: Train Loss = 0.0181 | Val Loss = 1.4303 (AUC: 0.5959) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:14:37] No improvement for 47/100 epochs
+[2025-07-20 21:14:42] Epoch 76/500: Train Loss = 0.0197 | Val Loss = 1.2964 (AUC: 0.6043) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:14:42] No improvement for 48/100 epochs
+[2025-07-20 21:14:46] Epoch 77/500: Train Loss = 0.0188 | Val Loss = 1.3881 (AUC: 0.5839) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:14:46] No improvement for 49/100 epochs
+[2025-07-20 21:14:50] Epoch 78/500: Train Loss = 0.0199 | Val Loss = 1.2223 (AUC: 0.5942) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:14:50] No improvement for 50/100 epochs
+[2025-07-20 21:14:54] Epoch 79/500: Train Loss = 0.0164 | Val Loss = 1.3096 (AUC: 0.6119) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:14:58] No improvement for 51/100 epochs
+[2025-07-20 21:15:03] Epoch 80/500: Train Loss = 0.0155 | Val Loss = 1.3835 (AUC: 0.5872) | Times - Train: 4.4s, Val: 0.1s
+[2025-07-20 21:15:03] No improvement for 52/100 epochs
+[2025-07-20 21:15:07] Epoch 81/500: Train Loss = 0.0165 | Val Loss = 1.3244 (AUC: 0.5963) | Times - Train: 4.2s, Val: 0.1s
+[2025-07-20 21:15:17] No improvement for 53/100 epochs
+[2025-07-20 21:15:21] Epoch 82/500: Train Loss = 0.0141 | Val Loss = 1.3835 (AUC: 0.5910) | Times - Train: 4.2s, Val: 0.0s
+[2025-07-20 21:15:21] No improvement for 54/100 epochs
+[2025-07-20 21:15:25] Epoch 83/500: Train Loss = 0.0123 | Val Loss = 1.3096 (AUC: 0.5880) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:15:25] No improvement for 55/100 epochs
+[2025-07-20 21:15:29] Epoch 84/500: Train Loss = 0.0119 | Val Loss = 1.1777 (AUC: 0.6336) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:15:29] No improvement for 56/100 epochs
+[2025-07-20 21:15:33] Epoch 85/500: Train Loss = 0.0134 | Val Loss = 1.3524 (AUC: 0.6044) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:15:33] No improvement for 57/100 epochs
+[2025-07-20 21:15:37] Epoch 86/500: Train Loss = 0.0161 | Val Loss = 1.2042 (AUC: 0.6204) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:15:37] No improvement for 58/100 epochs
+[2025-07-20 21:15:41] Epoch 87/500: Train Loss = 0.0158 | Val Loss = 1.3738 (AUC: 0.6187) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:15:41] No improvement for 59/100 epochs
+[2025-07-20 21:15:45] Epoch 88/500: Train Loss = 0.0135 | Val Loss = 1.3894 (AUC: 0.5865) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:15:45] No improvement for 60/100 epochs
+[2025-07-20 21:15:49] Epoch 89/500: Train Loss = 0.0149 | Val Loss = 1.1834 (AUC: 0.6142) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:15:49] No improvement for 61/100 epochs
+[2025-07-20 21:15:53] Epoch 90/500: Train Loss = 0.0134 | Val Loss = 1.2495 (AUC: 0.6039) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:15:53] No improvement for 62/100 epochs
+[2025-07-20 21:15:58] Epoch 91/500: Train Loss = 0.0151 | Val Loss = 1.3525 (AUC: 0.6132) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:15:58] No improvement for 63/100 epochs
+[2025-07-20 21:16:02] Epoch 92/500: Train Loss = 0.0126 | Val Loss = 1.2723 (AUC: 0.5978) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:16:02] No improvement for 64/100 epochs
+[2025-07-20 21:16:06] Epoch 93/500: Train Loss = 0.0115 | Val Loss = 1.5375 (AUC: 0.5651) | Times - Train: 4.3s, Val: 0.1s
+[2025-07-20 21:16:06] No improvement for 65/100 epochs
+[2025-07-20 21:16:10] Epoch 94/500: Train Loss = 0.0116 | Val Loss = 1.2987 (AUC: 0.5904) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:16:10] No improvement for 66/100 epochs
+[2025-07-20 21:16:14] Epoch 95/500: Train Loss = 0.0116 | Val Loss = 1.2789 (AUC: 0.5882) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:16:14] No improvement for 67/100 epochs
+[2025-07-20 21:16:18] Epoch 96/500: Train Loss = 0.0108 | Val Loss = 1.4346 (AUC: 0.5941) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:16:18] No improvement for 68/100 epochs
+[2025-07-20 21:16:22] Epoch 97/500: Train Loss = 0.0153 | Val Loss = 1.2403 (AUC: 0.5906) | Times - Train: 4.0s, Val: 0.1s
+[2025-07-20 21:16:22] No improvement for 69/100 epochs
+[2025-07-20 21:16:26] Epoch 98/500: Train Loss = 0.0145 | Val Loss = 1.2960 (AUC: 0.6086) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:16:26] No improvement for 70/100 epochs
+[2025-07-20 21:16:30] Epoch 99/500: Train Loss = 0.0178 | Val Loss = 1.4310 (AUC: 0.5831) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:16:30] No improvement for 71/100 epochs
+[2025-07-20 21:16:35] Epoch 100/500: Train Loss = 0.0198 | Val Loss = 1.0441 (AUC: 0.6358) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:16:35] No improvement for 72/100 epochs
+[2025-07-20 21:16:39] Epoch 101/500: Train Loss = 0.0179 | Val Loss = 1.2865 (AUC: 0.5892) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:16:39] No improvement for 73/100 epochs
+[2025-07-20 21:16:43] Epoch 102/500: Train Loss = 0.0159 | Val Loss = 1.2463 (AUC: 0.6085) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:16:43] No improvement for 74/100 epochs
+[2025-07-20 21:16:47] Epoch 103/500: Train Loss = 0.0154 | Val Loss = 1.2513 (AUC: 0.5988) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:16:47] No improvement for 75/100 epochs
+[2025-07-20 21:16:51] Epoch 104/500: Train Loss = 0.0109 | Val Loss = 1.3848 (AUC: 0.5851) | Times - Train: 4.3s, Val: 0.1s
+[2025-07-20 21:16:51] No improvement for 76/100 epochs
+[2025-07-20 21:16:56] Epoch 105/500: Train Loss = 0.0096 | Val Loss = 1.4859 (AUC: 0.5911) | Times - Train: 4.8s, Val: 0.1s
+[2025-07-20 21:16:56] No improvement for 77/100 epochs
+[2025-07-20 21:17:01] Epoch 106/500: Train Loss = 0.0091 | Val Loss = 1.3198 (AUC: 0.5897) | Times - Train: 4.7s, Val: 0.1s
+[2025-07-20 21:17:01] No improvement for 78/100 epochs
+[2025-07-20 21:17:06] Epoch 107/500: Train Loss = 0.0087 | Val Loss = 1.2062 (AUC: 0.6214) | Times - Train: 4.7s, Val: 0.1s
+[2025-07-20 21:17:06] No improvement for 79/100 epochs
+[2025-07-20 21:17:10] Epoch 108/500: Train Loss = 0.0087 | Val Loss = 1.2287 (AUC: 0.5967) | Times - Train: 4.8s, Val: 0.1s
+[2025-07-20 21:17:10] No improvement for 80/100 epochs
+[2025-07-20 21:17:15] Epoch 109/500: Train Loss = 0.0082 | Val Loss = 1.1471 (AUC: 0.6058) | Times - Train: 4.7s, Val: 0.1s
+[2025-07-20 21:17:15] No improvement for 81/100 epochs
+[2025-07-20 21:17:20] Epoch 110/500: Train Loss = 0.0088 | Val Loss = 1.1621 (AUC: 0.5910) | Times - Train: 4.4s, Val: 0.0s
+[2025-07-20 21:17:20] No improvement for 82/100 epochs
+[2025-07-20 21:17:24] Epoch 111/500: Train Loss = 0.0082 | Val Loss = 1.3654 (AUC: 0.6080) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:17:24] No improvement for 83/100 epochs
+[2025-07-20 21:17:28] Epoch 112/500: Train Loss = 0.0084 | Val Loss = 1.3398 (AUC: 0.5824) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:17:28] No improvement for 84/100 epochs
+[2025-07-20 21:17:32] Epoch 113/500: Train Loss = 0.0075 | Val Loss = 1.2321 (AUC: 0.6198) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:17:32] No improvement for 85/100 epochs
+[2025-07-20 21:17:36] Epoch 114/500: Train Loss = 0.0078 | Val Loss = 1.2684 (AUC: 0.5888) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:17:36] No improvement for 86/100 epochs
+[2025-07-20 21:17:40] Epoch 115/500: Train Loss = 0.0085 | Val Loss = 1.3410 (AUC: 0.5709) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:17:40] No improvement for 87/100 epochs
+[2025-07-20 21:17:44] Epoch 116/500: Train Loss = 0.0086 | Val Loss = 1.1243 (AUC: 0.6066) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:17:44] No improvement for 88/100 epochs
+[2025-07-20 21:17:48] Epoch 117/500: Train Loss = 0.0086 | Val Loss = 1.3048 (AUC: 0.5675) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:17:48] No improvement for 89/100 epochs
+[2025-07-20 21:17:52] Epoch 118/500: Train Loss = 0.0076 | Val Loss = 1.1680 (AUC: 0.5987) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:17:52] No improvement for 90/100 epochs
+[2025-07-20 21:17:56] Epoch 119/500: Train Loss = 0.0103 | Val Loss = 1.2919 (AUC: 0.5790) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:17:56] No improvement for 91/100 epochs
+[2025-07-20 21:18:01] Epoch 120/500: Train Loss = 0.0197 | Val Loss = 1.5201 (AUC: 0.5882) | Times - Train: 4.2s, Val: 0.1s
+[2025-07-20 21:18:01] No improvement for 92/100 epochs
+[2025-07-20 21:18:05] Epoch 121/500: Train Loss = 0.0346 | Val Loss = 1.3371 (AUC: 0.5800) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:18:05] No improvement for 93/100 epochs
+[2025-07-20 21:18:09] Epoch 122/500: Train Loss = 0.0382 | Val Loss = 1.2461 (AUC: 0.5872) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:18:09] No improvement for 94/100 epochs
+[2025-07-20 21:18:13] Epoch 123/500: Train Loss = 0.0190 | Val Loss = 1.3313 (AUC: 0.5835) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:18:13] No improvement for 95/100 epochs
+[2025-07-20 21:18:17] Epoch 124/500: Train Loss = 0.0132 | Val Loss = 1.1713 (AUC: 0.5657) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:18:17] No improvement for 96/100 epochs
+[2025-07-20 21:18:21] Epoch 125/500: Train Loss = 0.0086 | Val Loss = 1.1808 (AUC: 0.5802) | Times - Train: 4.1s, Val: 0.0s
+[2025-07-20 21:18:21] No improvement for 97/100 epochs
+[2025-07-20 21:18:26] Epoch 126/500: Train Loss = 0.0078 | Val Loss = 1.1418 (AUC: 0.6158) | Times - Train: 4.1s, Val: 0.1s
+[2025-07-20 21:18:26] No improvement for 98/100 epochs
+[2025-07-20 21:18:30] Epoch 127/500: Train Loss = 0.0075 | Val Loss = 1.2562 (AUC: 0.5849) | Times - Train: 4.0s, Val: 0.0s
+[2025-07-20 21:18:30] No improvement for 99/100 epochs
+[2025-07-20 21:18:34] Epoch 128/500: Train Loss = 0.0069 | Val Loss = 1.2462 (AUC: 0.5872) | Times - Train: 3.9s, Val: 0.0s
+[2025-07-20 21:18:34] No improvement for 100/100 epochs
+[2025-07-20 21:18:34] Early stopping triggered after 100 epochs without improvement
+[2025-07-20 21:18:34] Early stopping triggered at epoch 129
+[2025-07-20 21:18:34] Training completed. Validation AUC: 0.6628 | Best epoch: 28 | Training time: 560.0s
+[2025-07-20 21:18:34] Loaded best model for final evaluation from output\hparam_search_2507201923\train_2507201923_210913_hidden8192_lr1e-05\28.pkl
+[2025-07-20 21:18:34] ============================================================
+[2025-07-20 21:18:34] FINAL TEST RESULTS:
+[2025-07-20 21:18:34] AUC: 0.6628 | PR AUC: 0.8279 | ACC: 0.5365
+[2025-07-20 21:18:34] Balanced ACC: 0.6019 | Precision: 0.8377
+[2025-07-20 21:18:34] Recall: 0.4681 | Kappa: 0.1433 | F1: 0.6006
+[2025-07-20 21:18:34] Test time: 0.0s
+[2025-07-20 21:18:34] ============================================================
+[2025-07-20 21:18:34] New best hyperparameters: hidden=8192, lr=1e-05, Val AUC=0.6628
+[2025-07-20 21:18:34] 
+
+================================================================================
+[2025-07-20 21:18:34] HYPERPARAMETER SEARCH COMPLETED
+[2025-07-20 21:18:34] Total search time: 1h 54min 54s
+[2025-07-20 21:18:34] Total runs: 16
+[2025-07-20 21:18:34] Best parameters:
+[2025-07-20 21:18:34]   Hidden size: 8192
+[2025-07-20 21:18:34]   Learning rate: 1e-05
+[2025-07-20 21:18:34]   Validation AUC: 0.6628
+[2025-07-20 21:18:34]   Test AUC: 0.6628
+[2025-07-20 21:18:34]   Test PR AUC: 0.8279
+[2025-07-20 21:18:34]   Test ACC: 0.5365
+[2025-07-20 21:18:34]   Output directory: output\hparam_search_2507201923\train_2507201923_210913_hidden8192_lr1e-05
+[2025-07-20 21:18:34] ================================================================================
